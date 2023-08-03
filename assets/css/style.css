@@ -83,8 +83,8 @@ body {
 .icon__login {
   position: absolute;
   top: 50%;
-  margin-top: -0.5em;
   left: 0.5em;
+  margin-top: -0.5em;
   height: 1em;
 }
 
