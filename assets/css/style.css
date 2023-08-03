@@ -67,10 +67,8 @@ body {
 .form__login {
   width: 100%;
   height: 100%;
-  min-height: 40px;
   padding: 10px;
   border-radius: 3px;
-  border: none;
   outline: none;
   background-color: #007ad9;
   border: 1px solid #1377c4;
@@ -78,12 +76,8 @@ body {
   font-weight: bold;
   font-size: 14px;
   cursor: pointer;
-  transition: background-color 0.2s, box-shadow 0.2s;
   display: inline-block;
   position: relative;
-  text-align: center;
-  overflow: visible;
-
 }
 
 .icon__login {
